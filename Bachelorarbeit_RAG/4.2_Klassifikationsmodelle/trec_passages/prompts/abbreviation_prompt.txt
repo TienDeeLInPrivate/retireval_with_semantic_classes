@@ -1,0 +1,41 @@
+Classify the targeted text-passage based on whether it provides information on abbreviations or not.
+If it contains information about abbreviations, classify it as 'abbreviation'
+If it does not contain information about abbreviations, classify it as 'not_abbreviation'
+Just mentioning an abbreviation is not enough, there needs to be information provieded about the abbreviation.
+
+Answer by providing only the Label and nothing else.
+
+Here are some examples with a Text-Passage followed by its label:
+
+Text-Passage:
+"Diagnostic testing
+Cell-free fetal DNA (cffDNA) testing-a non-invasive (for the fetus) test. It is performed on a sample of venous blood from the mother, and can provide information about the fetus early in pregnancy. $^{[12]}$ As of 2015 it is the most sensitive and specific screening test for Down syndrome. [13]
+Newborn screening-used just after birth to identify genetic disorders that can be treated early in life. A blood sample is collected with a heel prick from the newborn 24-48 hours after birth and sent to the lab for analysis. In the United States, newborn screening procedure varies state by state, 
+but all states by law test for at least 21 disorders. If abnormal results are obtained, it does not necessarily mean the child has the disorder. 
+Diagnostic tests must follow the initial screening to confirm the disease. $^{[14]}$ The routine testing of infants for certain disorders is the most"
+
+Label: abbreviation
+
+Text-Passage:
+OS/360 MVT (Multiprogramming with a Variable number of Tasks) [1] was an enhancement that further refined memory use. Instead of using fixed-size memory partitions, MVT allocates memory to regions for job steps as needed, provided enough contiguous physical memory is available. 
+This is a significant advance over MFT's memory management, but has some weaknesses: if a job allocates memory dynamically (as most sort programs and database management systems do), the programmers has to estimate the job's maximum memory requirement and pre-define it for MVT. 
+A job step that containes a mix of small and large programs wastes memory while the small programs run. Most seriously, memory can become fragmented, i.e., 
+the memory not used by current jobs could be divided into uselessly small chunks between the areas used by current jobs, and the only remedy was to wait until some current jobs finished before starting any new ones.
+
+Label: abbreviation
+
+Text-Passage:
+Imagine that these two entangled qubits are separated, with one each given to Alice and Bob. Alice makes a measurement of her qubit, obtaining-with equal probabilities-either or, i.e., she can now tell if her qubit has value '0' or '1'. Because of the qubits' entanglement, Bob must now get exactly the same measurement as Alice. 
+For example, if she measures a, Bob must measure the same, as is the only state where Alice's qubit is a. 
+In short, for these two entangled qubits, whatever Alice measures, so would Bob, with perfect correlation, in any basis, however far apart they may be and even though both can not tell if their qubit has value '0' or '1' a most surprising circumstance that can not be explained by classical physics.
+
+Label: not_abbreviation
+
+Text-Passage:
+IBM is a globally integrated enterprise operating in 170 countries. 
+IBM's R&D history in Israel began in 1972 when Professor Josef Raviv established the IBM Israel Scientific Center in the Technion's Computer Science Building in Haifa. 
+Today, over 1000 individuals work at IBM R&D locations across Israel, including Haifa, Tel Aviv, Herzliya, Rehovot, and the Jerusalem Technology Park. 
+IBM research and development activities in Israel include a number of labs.
+
+Label: not_abbreviation
+

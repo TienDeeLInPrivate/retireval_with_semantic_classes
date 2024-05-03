@@ -1,0 +1,501 @@
+text,coarse_label,output_ul2
+How far is it from Denver to Aspen ?,numeric,numeric
+"What county is Modesto , California in ?",location,location
+Who was Galileo ?,human,human
+What is an atom ?,description,description
+When did Hawaii become a state ?,numeric,numeric
+How tall is the Sears Building ?,numeric,numeric
+George Bush purchased a small interest in which baseball team ?,human,human
+What is Australia 's national flower ?,entity,entity
+Why does the moon turn orange ?,description,description
+What is autism ?,description,description
+What city had a world fair in 1900 ?,location,location
+What person 's head is on a dime ?,human,human
+What is the average weight of a Yellow Labrador ?,numeric,numeric
+Who was the first man to fly across the Pacific Ocean ?,human,human
+When did Idaho become a state ?,numeric,numeric
+What is the life expectancy for crickets ?,numeric,numeric
+What metal has the highest melting point ?,entity,entity
+Who developed the vaccination against polio ?,human,human
+What is epilepsy ?,description,description
+What year did the Titanic sink ?,numeric,numeric
+Who was the first American to walk in space ?,human,human
+What is a biosphere ?,description,description
+What river in the US is known as the Big Muddy ?,location,location
+What is bipolar disorder ?,description,description
+What is cholesterol ?,description,description
+Who developed the Macintosh computer ?,human,human
+What is caffeine ?,description,description
+What imaginary line is halfway between the North and South Poles ?,location,location
+Where is John Wayne airport ?,location,location
+What hemisphere is the Philippines in ?,location,location
+What is the average speed of the horses at the Kentucky Derby ?,numeric,numeric
+Where are the Rocky Mountains ?,location,location
+What are invertebrates ?,description,description
+What is the temperature at the center of the earth ?,numeric,numeric
+When did John F. Kennedy get elected as President ?,numeric,numeric
+How old was Elvis Presley when he died ?,numeric,numeric
+Where is the Orinoco River ?,location,location
+How far is the service line from the net in tennis ?,numeric,numeric
+How much fiber should you have per day ?,numeric,numeric
+How many Great Lakes are there ?,numeric,numeric
+Material called linen is made from what plant ?,entity,entity
+What is Teflon ?,description,description
+What is amitriptyline ?,description,description
+What is a shaman ?,description,description
+What is the proper name for a female walrus ?,entity,entity
+What is a group of turkeys called ?,entity,entity
+How long did Rip Van Winkle sleep ?,numeric,numeric
+What are triglycerides ?,description,description
+How many liters in a gallon ?,numeric,numeric
+What is the name of the chocolate company in San Francisco ?,human,human
+What are amphibians ?,description,description
+Who discovered x-rays ?,human,human
+Which comedian 's signature line is `` Can we talk '' ?,human,human
+What is fibromyalgia ?,description,description
+What is done with worn or outdated flags ?,description,description
+What does cc in engines mean ?,description,description
+When did Elvis Presley die ?,numeric,numeric
+What is the capital of Yugoslavia ?,location,location
+Where is Milan ?,location,location
+What is the speed hummingbirds fly ?,numeric,numeric
+What is the oldest city in the United States ?,location,location
+What was W.C. Fields ' real name ?,human,human
+"What river flows between Fargo , North Dakota and Moorhead , Minnesota ?",location,location
+What do bats eat ?,entity,entity
+What state did the Battle of Bighorn take place in ?,location,location
+Who was Abraham Lincoln ?,human,human
+What do you call a newborn kangaroo ?,entity,entity
+What are spider veins ?,description,description
+What day and month did John Lennon die ?,numeric,numeric
+What strait separates North America from Asia ?,location,location
+What is the population of Seattle ?,numeric,numeric
+How much was a ticket for the Titanic ?,numeric,numeric
+What is the largest city in the world ?,location,location
+What American composer wrote the music for `` West Side Story '' ?,human,human
+Where is the Mall of the America ?,location,location
+What is the pH scale ?,description,description
+What type of currency is used in Australia ?,entity,entity
+"How tall is the Gateway Arch in St. Louis , MO ?",numeric,numeric
+How much does the human adult female brain weigh ?,numeric,numeric
+Who was the first governor of Alaska ?,human,human
+What is a prism ?,description,description
+When was the first liver transplant ?,numeric,numeric
+Who was elected president of South Africa in 1994 ?,human,human
+What is the population of China ?,numeric,numeric
+When was Rosa Parks born ?,numeric,numeric
+Why is a ladybug helpful ?,description,description
+What is amoxicillin ?,description,description
+Who was the first female United States Representative ?,human,human
+What are xerophytes ?,description,description
+What country did Ponce de Leon come from ?,location,location
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?,entity,entity
+What is desktop publishing ?,description,description
+What is the temperature of the sun 's surface ?,numeric,numeric
+What year did Canada join the United Nations ?,numeric,numeric
+What is the oldest university in the US ?,human,human
+Where is Prince Edward Island ?,location,location
+"Mercury , what year was it discovered ?",numeric,numeric
+What is cryogenics ?,description,description
+What are coral reefs ?,description,description
+What is the longest major league baseball-winning streak ?,entity,entity
+What is neurology ?,description,description
+Who invented the calculator ?,human,human
+How do you measure earthquakes ?,description,description
+Who is Duke Ellington ?,human,human
+"What county is Phoenix , AZ in ?",location,location
+What is a micron ?,description,description
+"The sun 's core , what is the temperature ?",numeric,numeric
+What is the Ohio state bird ?,entity,entity
+When were William Shakespeare 's twins born ?,numeric,numeric
+What is the highest dam in the U.S. ?,location,location
+What color is a poison arrow frog ?,entity,entity
+What is acupuncture ?,description,description
+What is the length of the coastline of the state of Alaska ?,numeric,numeric
+What is the name of Neil Armstrong 's wife ?,human,human
+What is Hawaii 's state flower ?,entity,entity
+Who won Ms. American in 1989 ?,human,human
+When did the Hindenberg crash ?,numeric,numeric
+What mineral helps prevent osteoporosis ?,entity,entity
+What was the last year that the Chicago Cubs won the World Series ?,numeric,numeric
+Where is Perth ?,location,location
+What year did WWII begin ?,numeric,numeric
+What is the diameter of a golf ball ?,numeric,numeric
+What is an eclipse ?,description,description
+Who discovered America ?,human,human
+What is the earth 's diameter ?,numeric,numeric
+Which president was unmarried ?,human,human
+How wide is the Milky Way galaxy ?,numeric,numeric
+During which season do most thunderstorms occur ?,numeric,entity
+What is Wimbledon ?,description,description
+What is the gestation period for a cat ?,numeric,numeric
+How far is a nautical mile ?,numeric,numeric
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?,human,human
+What does target heart rate mean ?,description,description
+What was the first satellite to go into space ?,entity,entity
+What is foreclosure ?,description,description
+What is the major fault line near Kentucky ?,entity,location
+Where is the Holland Tunnel ?,location,location
+Who wrote the hymn `` Amazing Grace '' ?,human,human
+What position did Willie Davis play in baseball ?,human,entity
+What are platelets ?,description,description
+What is severance pay ?,description,description
+What is the name of Roy Roger 's dog ?,entity,entity
+Where are the National Archives ?,location,location
+What is a baby turkey called ?,entity,entity
+What is poliomyelitis ?,description,description
+What is the longest bone in the human body ?,entity,entity
+Who is a German philosopher ?,human,human
+What were Christopher Columbus ' three ships ?,entity,entity
+What does Phi Beta Kappa mean ?,description,description
+What is nicotine ?,description,description
+What is another name for vitamin B1 ?,entity,entity
+Who discovered radium ?,human,human
+What are sunspots ?,description,description
+When was Algeria colonized ?,numeric,numeric
+What baseball team was the first to make numbers part of their uniform ?,human,human
+What continent is Egypt on ?,location,location
+What is the capital of Mongolia ?,location,location
+What is nanotechnology ?,description,description
+In the late 1700 's British convicts were used to populate which colony ?,location,location
+What state is the geographic center of the lower 48 states ?,location,location
+What is an obtuse angle ?,description,description
+What are polymers ?,description,description
+When is hurricane season in the Caribbean ?,numeric,numeric
+Where is the volcano Mauna Loa ?,location,location
+What is another astronomic term for the Northern Lights ?,entity,entity
+What peninsula is Spain part of ?,location,location
+When was Lyndon B. Johnson born ?,numeric,numeric
+What is acetaminophen ?,description,description
+What state has the least amount of rain per year ?,location,location
+Who founded American Red Cross ?,human,human
+What year did the Milwaukee Braves become the Atlanta Braves ?,numeric,numeric
+How fast is alcohol absorbed ?,numeric,numeric
+When is the summer solstice ?,numeric,numeric
+What is supernova ?,description,description
+Where is the Shawnee National Forest ?,location,location
+What U.S. state 's motto is `` Live free or Die '' ?,location,location
+Where is the Lourve ?,location,location
+When was the first stamp issued ?,numeric,numeric
+What primary colors do you mix to make orange ?,entity,entity
+How far is Pluto from the sun ?,numeric,numeric
+What body of water are the Canary Islands in ?,location,location
+What is neuropathy ?,description,description
+Where is the Euphrates River ?,location,location
+What is cryptography ?,description,description
+What is natural gas composed of ?,entity,entity
+Who is the Prime Minister of Canada ?,human,human
+What French ruler was defeated at the battle of Waterloo ?,human,human
+What is leukemia ?,description,description
+Where did Howard Hughes die ?,location,location
+What is the birthstone for June ?,entity,entity
+What is the sales tax in Minnesota ?,entity,numeric
+What is the distance in miles from the earth to the sun ?,numeric,numeric
+What is the average life span for a chicken ?,numeric,numeric
+When was the first Wal-Mart store opened ?,numeric,numeric
+What is relative humidity ?,description,description
+What city has the zip code of 35824 ?,location,location
+What currency is used in Algeria ?,entity,entity
+Who invented the hula hoop ?,human,human
+What was the most popular toy in 1957 ?,entity,entity
+What is pastrami made of ?,entity,entity
+What is the name of the satellite that the Soviet Union sent into space in 1957 ?,entity,entity
+What city 's newspaper is called `` The Enquirer '' ?,location,location
+Who invented the slinky ?,human,human
+What are the animals that don 't have backbones called ?,entity,entity
+What is the melting point of copper ?,numeric,numeric
+Where is the volcano Olympus Mons located ?,location,location
+Who was the 23rd president of the United States ?,human,human
+What is the average body temperature ?,numeric,numeric
+What does a defibrillator do ?,description,description
+What is the effect of acid rain ?,description,description
+What year did the United States abolish the draft ?,numeric,numeric
+How fast is the speed of light ?,numeric,numeric
+What province is Montreal in ?,location,location
+What New York City structure is also known as the Twin Towers ?,location,entity
+What is fungus ?,description,description
+What is the most frequently spoken language in the Netherlands ?,entity,entity
+What is sodium chloride ?,description,description
+What are the spots on dominoes called ?,entity,entity
+How many pounds in a ton ?,numeric,numeric
+What is influenza ?,description,description
+What is ozone depletion ?,description,description
+What year was the Mona Lisa painted ?,numeric,numeric
+What does `` Sitting Shiva '' mean ?,description,description
+"What is the electrical output in Madrid , Spain ?",entity,numeric
+Which mountain range in North America stretches from Maine to Georgia ?,location,location
+What is plastic made of ?,entity,entity
+What is the population of Nigeria ?,numeric,numeric
+What does your spleen do ?,description,description
+Where is the Grand Canyon ?,location,location
+Who invented the telephone ?,human,human
+What year did the U.S. buy Alaska ?,numeric,numeric
+What is the name of the leader of Ireland ?,human,human
+What is phenylalanine ?,description,description
+How many gallons of water are there in a cubic foot ?,numeric,numeric
+What are the two houses of the Legislative branch ?,entity,entity
+What is sonar ?,description,description
+"In Poland , where do most people live ?",location,location
+What is phosphorus ?,description,description
+What is the location of the Sea of Tranquility ?,location,location
+How fast is sound ?,numeric,numeric
+What French province is cognac produced in ?,location,location
+What is Valentine 's Day ?,description,description
+What causes gray hair ?,description,description
+What is hypertension ?,description,description
+What is bandwidth ?,description,description
+What is the longest suspension bridge in the U.S. ?,location,entity
+What is a parasite ?,description,description
+What is home equity ?,description,description
+What do meteorologists do ?,description,description
+What is the criterion for being legally blind ?,entity,description
+Who is the tallest man in the world ?,human,human
+What are the twin cities ?,location,location
+What did Edward Binney and Howard Smith invent in 1903 ?,entity,entity
+What is the statue of liberty made of ?,entity,entity
+What is pilates ?,description,description
+What planet is known as the `` red '' planet ?,location,location
+What is the depth of the Nile river ?,numeric,numeric
+What is the colorful Korean traditional dress called ?,entity,entity
+What is Mardi Gras ?,description,description
+Mexican pesos are worth what in U.S. dollars ?,numeric,numeric
+Who was the first African American to play for the Brooklyn Dodgers ?,human,human
+Who was the first Prime Minister of Canada ?,human,human
+How many Admirals are there in the U.S. Navy ?,numeric,numeric
+What instrument did Glenn Miller play ?,entity,entity
+How old was Joan of Arc when she died ?,numeric,numeric
+What does the word fortnight mean ?,description,description
+What is dianetics ?,description,description
+What is the capital of Ethiopia ?,location,location
+For how long is an elephant pregnant ?,numeric,numeric
+How did Janice Joplin die ?,description,description
+What is the primary language in Iceland ?,entity,entity
+What is the difference between AM radio stations and FM radio stations ?,description,description
+What is osteoporosis ?,description,description
+Who was the first woman governor in the U.S. ?,human,human
+What is peyote ?,description,description
+What is the esophagus used for ?,description,description
+What is viscosity ?,description,description
+What year did Oklahoma become a state ?,numeric,numeric
+What is the abbreviation for Texas ?,abbreviation,abbreviation
+What is a mirror made out of ?,entity,entity
+Where on the body is a mortarboard worn ?,location,location
+What was J.F.K. 's wife 's name ?,human,human
+What does I.V. stand for ?,abbreviation,abbreviation
+What is the chunnel ?,description,description
+Where is Hitler buried ?,location,location
+What are antacids ?,description,description
+What is pulmonary fibrosis ?,description,description
+What are Quaaludes ?,description,description
+What is naproxen ?,description,description
+What is strep throat ?,description,description
+What is the largest city in the U.S. ?,location,location
+What is foot and mouth disease ?,entity,description
+What is the life expectancy of a dollar bill ?,numeric,numeric
+What do you call a professional map drawer ?,entity,entity
+What are Aborigines ?,description,description
+What is hybridization ?,description,description
+What color is indigo ?,entity,entity
+How old do you have to be in order to rent a car in Italy ?,numeric,numeric
+What does a barometer measure ?,entity,description
+What color is a giraffe 's tongue ?,entity,entity
+What does USPS stand for ?,abbreviation,abbreviation
+What year did the NFL go on strike ?,numeric,numeric
+What is solar wind ?,description,description
+What date did Neil Armstrong land on the moon ?,numeric,numeric
+When was Hiroshima bombed ?,numeric,numeric
+Where is the Savannah River ?,location,location
+Who was the first woman killed in the Vietnam War ?,human,human
+What planet has the strongest magnetic field of all the planets ?,location,entity
+Who is the governor of Alaska ?,human,human
+What year did Mussolini seize power in Italy ?,numeric,numeric
+What is the capital of Persia ?,location,location
+Where is the Eiffel Tower ?,location,location
+How many hearts does an octopus have ?,numeric,numeric
+What is pneumonia ?,description,description
+What is the deepest lake in the US ?,location,location
+What is a fuel cell ?,description,description
+Who was the first U.S. president to appear on TV ?,human,human
+Where is the Little League Museum ?,location,location
+What are the two types of twins ?,entity,entity
+What is the brightest star ?,location,entity
+What is diabetes ?,description,description
+When was President Kennedy shot ?,numeric,numeric
+What is TMJ ?,abbreviation,abbreviation
+What color is yak milk ?,entity,entity
+What date was Dwight D. Eisenhower born ?,numeric,numeric
+What does the technical term ISDN mean ?,abbreviation,abbreviation
+Why is the sun yellow ?,description,description
+What is the conversion rate between dollars and pounds ?,numeric,numeric
+When was Abraham Lincoln born ?,numeric,numeric
+What is the Milky Way ?,description,description
+What is mold ?,description,description
+What year was Mozart born ?,numeric,numeric
+What is a group of frogs called ?,entity,entity
+What is the name of William Penn 's ship ?,entity,entity
+What is the melting point of gold ?,numeric,numeric
+What is the street address of the White House ?,location,location
+What is semolina ?,description,description
+What fruit is Melba sauce made from ?,entity,entity
+What is Ursa Major ?,description,description
+What is the percentage of water content in the human body ?,numeric,numeric
+How much does water weigh ?,numeric,numeric
+What was President Lyndon Johnson 's reform program called ?,entity,entity
+"What is the murder rate in Windsor , Ontario ?",numeric,numeric
+Who is the only president to serve 2 non-consecutive terms ?,human,human
+What is the population of Australia ?,numeric,numeric
+Who painted the ceiling of the Sistine Chapel ?,human,human
+Name a stimulant .,entity,entity
+What is the effect of volcanoes on the climate ?,description,description
+What year did the Andy Griffith show begin ?,numeric,numeric
+What is acid rain ?,description,description
+What is the date of Mexico 's independence ?,numeric,numeric
+What is the location of Lake Champlain ?,location,location
+What is the Illinois state flower ?,entity,entity
+What is Maryland 's state bird ?,entity,entity
+What is quicksilver ?,description,description
+Who wrote `` The Divine Comedy '' ?,human,human
+What is the speed of light ?,numeric,numeric
+What is the width of a football field ?,numeric,numeric
+Why in tennis are zero points called love ?,description,description
+What kind of dog was Toto in the Wizard of Oz ?,entity,entity
+What is a thyroid ?,description,description
+What does ciao mean ?,description,description
+What is the only artery that carries blue blood from the heart to the lungs ?,entity,entity
+How often does Old Faithful erupt at Yellowstone National Park ?,numeric,numeric
+What is acetic acid ?,description,description
+"What is the elevation of St. Louis , MO ?",numeric,numeric
+What color does litmus paper turn when it comes into contact with a strong acid ?,entity,entity
+What are the colors of the German flag ?,entity,entity
+What is the Moulin Rouge ?,description,description
+What soviet seaport is on the Black Sea ?,location,location
+What is the atomic weight of silver ?,numeric,numeric
+What currency do they use in Brazil ?,entity,entity
+What are pathogens ?,description,description
+What is mad cow disease ?,description,description
+Name a food high in zinc .,entity,entity
+When did North Carolina enter the union ?,numeric,numeric
+Where do apple snails live ?,location,location
+What are ethics ?,description,description
+What does CPR stand for ?,abbreviation,abbreviation
+What is an annuity ?,description,description
+Who killed John F. Kennedy ?,human,human
+Who was the first vice president of the U.S. ?,human,human
+What birthstone is turquoise ?,entity,entity
+Who was the first US President to ride in an automobile to his inauguration ?,human,human
+How old was the youngest president of the United States ?,numeric,numeric
+When was Ulysses S. Grant born ?,numeric,numeric
+What is Muscular Dystrophy ?,description,description
+Who lived in the Neuschwanstein castle ?,human,human
+What is propylene glycol ?,description,description
+What is a panic disorder ?,description,description
+Who invented the instant Polaroid camera ?,human,human
+What is a carcinogen ?,description,description
+What is a baby lion called ?,entity,entity
+What is the world 's population ?,numeric,numeric
+What is nepotism ?,description,description
+What is die-casting ?,description,description
+What is myopia ?,description,description
+What is the sales tax rate in New York ?,numeric,numeric
+Developing nations comprise what percentage of the world 's population ?,numeric,numeric
+What is the fourth highest mountain in the world ?,location,location
+What is Shakespeare 's nickname ?,human,human
+What is the heaviest naturally occurring element ?,entity,entity
+When is Father 's Day ?,numeric,numeric
+What does the acronym NASA stand for ?,abbreviation,abbreviation
+How long is the Columbia River in miles ?,numeric,numeric
+What city 's newspaper is called `` The Star '' ?,location,location
+What is carbon dioxide ?,description,description
+Where is the Mason/Dixon line ?,location,location
+When was the Boston tea party ?,numeric,numeric
+What is metabolism ?,description,description
+Which U.S.A. president appeared on `` Laugh-In '' ?,human,human
+What are cigarettes made of ?,entity,entity
+What is the capital of Zimbabwe ?,location,location
+What does NASA stand for ?,abbreviation,abbreviation
+What is the state flower of Michigan ?,entity,entity
+What are semiconductors ?,description,description
+What is nuclear power ?,description,description
+What is a tsunami ?,description,description
+Who is the congressman from state of Texas on the armed forces committee ?,human,human
+Who was president in 1913 ?,human,human
+When was the first kidney transplant ?,numeric,numeric
+What are Canada 's two territories ?,location,location
+What was the name of the plane Lindbergh flew solo across the Atlantic ?,entity,entity
+What is genocide ?,description,description
+What continent is Argentina on ?,location,location
+What monastery was raided by Vikings in the late eighth century ?,entity,location
+What is an earthquake ?,description,description
+Where is the tallest roller coaster located ?,location,location
+What are enzymes ?,description,description
+Who discovered oxygen ?,human,human
+What is bangers and mash ?,description,description
+What is the name given to the Tiger at Louisiana State University ?,entity,entity
+Where are the British crown jewels kept ?,location,location
+Who was the first person to reach the North Pole ?,human,human
+What is an ulcer ?,description,description
+What is vertigo ?,description,description
+What is the spirometer test ?,description,description
+When is the official first day of summer ?,numeric,numeric
+What does the abbreviation SOS mean ?,abbreviation,abbreviation
+What is the smallest bird in Britain ?,entity,entity
+Who invented Trivial Pursuit ?,human,human
+What gasses are in the troposphere ?,entity,entity
+Which country has the most water pollution ?,location,location
+What is the scientific name for elephant ?,entity,entity
+Who is the actress known for her role in the movie `` Gypsy '' ?,human,human
+What breed of hunting dog did the Beverly Hillbillies own ?,entity,entity
+What is the rainiest place on Earth ?,location,location
+Who was the first African American to win the Nobel Prize in literature ?,human,human
+When is St. Patrick 's Day ?,numeric,numeric
+What was FDR 's dog 's name ?,entity,entity
+What colors need to be mixed to get the color pink ?,entity,entity
+What is the most popular sport in Japan ?,entity,entity
+What is the active ingredient in baking soda ?,entity,entity
+When was Thomas Jefferson born ?,numeric,numeric
+How cold should a refrigerator be ?,numeric,numeric
+When was the telephone invented ?,numeric,numeric
+What is the most common eye color ?,entity,entity
+Where was the first golf course in the United States ?,location,location
+What is schizophrenia ?,description,description
+What is angiotensin ?,description,description
+What did Jesse Jackson organize ?,human,entity
+What is New York 's state bird ?,entity,entity
+What is the National Park in Utah ?,location,location
+What is Susan B. Anthony 's birthday ?,numeric,numeric
+In which state would you find the Catskill Mountains ?,location,location
+What do you call a word that is spelled the same backwards and forwards ?,entity,entity
+What are pediatricians ?,description,description
+"What chain store is headquartered in Bentonville , Arkansas ?",human,human
+What are solar cells ?,description,description
+What is compounded interest ?,description,description
+What are capers ?,description,description
+What is an antigen ?,description,description
+What currency does Luxembourg use ?,entity,entity
+What is the population of Venezuela ?,numeric,numeric
+What type of polymer is used for bulletproof vests ?,entity,entity
+What currency does Argentina use ?,entity,entity
+What is a thermometer ?,description,description
+What Canadian city has the largest population ?,location,location
+What color are crickets ?,entity,entity
+Which country gave New York the Statue of Liberty ?,location,location
+What was the name of the first U.S. satellite sent into space ?,entity,entity
+What precious stone is a form of pure carbon ?,entity,entity
+What kind of gas is in a fluorescent bulb ?,entity,entity
+What is rheumatoid arthritis ?,description,description
+"What river runs through Rowe , Italy ?",location,location
+What is cerebral palsy ?,description,description
+What city is also known as `` The Gateway to the West '' ?,location,location
+How far away is the moon ?,numeric,numeric
+What is the source of natural gas ?,entity,entity
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?,entity,entity
+What is pectin ?,description,description
+What is bio-diversity ?,description,description
+What 's the easiest way to remove wallpaper ?,entity,description
+What year did the Titanic start on its journey ?,numeric,numeric
+How much of an apple is water ?,numeric,numeric
+Who was the 22nd President of the US ?,human,human
+What is the money they use in Zambia ?,entity,entity
+How many feet in a mile ?,numeric,numeric
+What is the birthstone of October ?,entity,entity
+What is e-coli ?,description,description

@@ -1,0 +1,21 @@
+question,sentence,label
+Who did NASA recruit by using flawed safety numbers?,"He concluded that the space shuttle reliability estimate by NASA management was fantastically unrealistic, and he was particularly angered that NASA used these figures to recruit Christa McAuliffe into the Teacher-in-Space program.",entailment
+How much solar energy is captured by photosynthesis?,"Photosynthesis captures approximately 3,000 EJ per year in biomass.",entailment
+What does the CAR get help with with regards to communication from ITU-D?,"In addition, the Central African Republic receives international support on telecommunication related operations from ITU Telecommunication Development Sector (ITU-D) within the International Telecommunication Union to improve infrastructure.",entailment
+"On Indian Independence Day, kites are flown by citizens which symbolize what concept?","Most Delhiites celebrate the day by flying kites, which are considered a symbol of freedom.",entailment
+What types of Christianity do Quakers belong to?,"They include those with evangelical, holiness, liberal, and traditional conservative Quaker understandings of Christianity.",entailment
+The Further and Higher Education Act 1992 allows polytechnics to award degrees without what organization's approval?,This meant that Polytechnics could confer degrees without the oversight of the national CNAA organization.,entailment
+In what square is the theater named after Lee Strasberg located?,"The Lee Strasberg Theatre and Film Institute is in Union Square, and Tisch School of the Arts is based at New York University, while Central Park SummerStage presents performances of free plays and music in Central Park.",entailment
+Who are the famous Venezuelen mandolinist?,"Today, Venezuelan mandolists include an important group of virtuoso players and ensembles such as Alberto Valderrama, Jesus Rengel, Ricardo Sandoval, Saul Vera, and Cristobal Soto.",entailment
+What take place during SWS?,System consolidation takes place during slow-wave sleep (SWS).,entailment
+Rayon comes from what plant product?,"Products made from cellulose include rayon and cellophane, wallpaper paste, biobutanol and gun cotton.",entailment
+How is it postulated that Mars life might have evolved?,"Those features can also be observed in algae and cyanobacteria, suggesting that these are adaptations to the conditions prevailing in Antarctica.",not_entailment
+What determines how deep a tester will go during regression?,"They can either be complete, for changes added late in the release or deemed to be risky, or be very shallow, consisting of positive tests on each feature, if the changes are early in the release or deemed to be of low risk.",not_entailment
+What was the job title of Ed Policy?,"Progress on the return stalled, and no announcements were made regarding the future of the league.",not_entailment
+What did Ibn Sina receive as payment for helping the emir?,"Ibn Sina's first appointment was that of physician to the emir, Nuh II, who owed him his recovery from a dangerous illness (997).",not_entailment
+How much did Bell et al. try to sell his patent for?,"By then, the Bell company no longer wanted to sell the patent.",not_entailment
+What is Spielberg's most common theme?,"The notable absence of Elliott's father in E.T., is the most famous example of this theme.",not_entailment
+What does the oldest know term for Egypt translate to?,"The name is of Semitic origin, directly cognate with other Semitic words for Egypt such as the Hebrew מִצְרַיִם (Mitzráyim).",not_entailment
+Westminster Abbey was the third highest place of learning after which two places?,It was here that the first third of the King James Bible Old Testament and the last half of the New Testament were translated.,not_entailment
+What famous encyclopedia contains a Russian back-transliteration of Estonian?,It should be noted that Estonian words and names quoted in international publications from Soviet sources are often back-transliterations from the Russian transliteration.,not_entailment
+When was The Sound Pattern of English published?,An important consequence of the influence SPE had on phonological theory was the downplaying of the syllable and the emphasis on segments.,not_entailment

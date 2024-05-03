@@ -1,0 +1,32 @@
+Classify the targeted text-passage based on whether it provides numerical information or not.
+If it contains numerical information, classify it as 'numeric'
+If it does not contain numerical information, classify it as 'not_numeric'
+
+Answer by providing only the Label and nothing else.
+
+Here are some examples with a Text-Passage followed by its label:
+
+Text-Passage:
+Thomas Vincent Learson (September 26, 1912-November 4, 1996) was IBM's chairman and chief executive officer from June 1971 through January 1973. He was succeeded by Frank T. Cary. 
+Both the previous chairman Thomas Watson Jr. and senior project manager Fred Brooks regarded Learson as the driving force behind the IBM System/360 project, which was huge and risky but whose success ensured IBM's dominance of the mainframe computer market. [1]
+
+Label: numeric
+
+Text-Passage:
+IBM is a publicly traded company and one of 30 companies in the Dow Jones Industrial Average. It is among the world's largest employers, with over 297,900 employees worldwide in 2022. 
+[15] Despite its relative decline within the technology sector, $^{[16]}$ IBM remains the seventh largest technology company by revenue, and 49th largest overall, according to the 2022 Fortune 500. 
+$^{[15]}$ It is also consistently ranked among the world's most recognizable, valuable, and admired brands. [17]
+
+Label: numeric
+
+Text-Passage:
+IaaS-cloud providers supply these resources on-demand from the large pools of equipment installed in data centers. For wide-area connectivity, customers can use either the Internet or carrier clouds (dedicated virtual private networks). 
+To deploy their applications, cloud users install operating-system images and the application software on the cloud infrastructure. [5] In this model, the cloud user patches and maintains the operating systems along with application software. Cloud providers typically bill IaaS services on a utility computing basis: cost reflects the number of resources allocated and consumed.
+
+Label: not_numeric
+
+Text-Passage:
+A wasting asset is an asset that irreversibly declines in value over time. This could include vehicles and machinery, and in financial markets, options contracts that continually lose time value after purchase. $^{[15]}$ Mines and quarries in use are wasting assets.$^{[16]}$ An asset classified as wasting may be treated differently for tax and other purposes than one that does not lose value; 
+this may be accounted for by applying depreciation.
+
+Label: not_numeric

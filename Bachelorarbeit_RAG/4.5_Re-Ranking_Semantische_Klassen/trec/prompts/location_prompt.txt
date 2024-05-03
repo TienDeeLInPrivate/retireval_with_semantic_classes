@@ -1,0 +1,33 @@
+Classify the targeted text-passage based on whether it provides information about a location or not.
+If it contains information about locations, classify it as 'location'
+If it does not contain information about locations, classify it as 'not_location'
+
+Answer by providing only the Label and nothing else.
+
+Here are some examples with a Text-Passage followed by its label:
+
+Text-Passage:
+The proposed site in Hong Kong's Central District was less than ideal; 
+a tangle of highways lined it on three sides. The area had also been home to a headquarters for Japanese military police during World War II, and was notorious for prisoner torture. The small parcel of land made a tall tower necessary, and Pei had usually shied away from such projects; 
+in Hong Kong especially, the skyscrapers lacked
+
+Label: location
+
+Text-Passage:
+The city also has a commuter rail system operated by SuperVia that connects the city of Rio with other locations in Greater Rio de Janeiro with surface trains. It has 8 lines and 270 km (168 mi), with 102 stations. 
+[212] It carries around 750,000 passengers [213] a day on a railroad network comprising 104 stations in 12 cities: Rio de Janeiro, Duque de Caxias, Guapimirim, Nova Igua√ßu, Nil√≥polis, Mesquita, Queimados, S√£o Jo√£o de Meriti, Belford Roxo, Japeri, Paracambi and Mag√©.
+
+Label: location
+
+Text-Passage:
+In 2004, Qualcomm created a MediaFLO subsidiary to bring its FLO (forward link only) specification to market. Qualcomm built an $800 million MediaFLO network of cell towers to supplement carrier networks with one that is designed for multimedia. 
+[122][123] In comparison to cellular towers that provide two-way communications with each cell phone individually, MediaFLO towers would broadcast multimedia content to mobile phones in a one-way broadcast. 
+$^{[124][125]}$ Qualcomm also sold FLO-based semiconductors and licenses. [126][127]
+
+Label: not_location
+
+Text-Passage:
+Some of the manufacturers that Vishay has acquired include HiRel Systems (2012), the resistor business of Huntington Electric (2011), the wet tantalum capacitor business of KEMET (2008), the PCS business of International Rectifier (2007), BCcomponents (Beyschlag Centralab components, which was previously part of Philips Electronics Components) (2002), 
+[7] General Semiconductor, the infrared components business of Infineon, Mallory (NACC), and Tansitor (2001), Cera-Mite, Electro-Films, and Spectrol (2000), Siliconix and Telefunken (1998), Vitramon (1994), Roederstein (1993), Sprague (1992), Sfernice (1988), Draloric (1987), and Dale (1985). [8]
+
+Label: not_location

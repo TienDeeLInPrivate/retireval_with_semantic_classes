@@ -1,0 +1,46 @@
+Classify the targeted text-passage based on whether it provides information in the form of descriptions or not.
+If it contains information in the form of descriptions, classify it as 'description'
+If it does not contain information in the form of descriptions, classify it as 'not_description'
+
+Answer by providing only the Label and nothing else.
+
+Here are some examples with a Text-Passage followed by its label:
+
+Text-Passage:
+Once a business owner defines the needs to take a business to the next level, a decision maker will define a scope, cost and a time frame of the project. 
+$^{[1]}$ The role of the IT consultancy company is to support and nurture the company from the very beginning of the project until the end, and deliver the project not only in the scope, 
+time and cost but also with complete customer satisfaction. [1]
+
+Label: description
+
+Text-Passage:
+Built in 1988, the tower, with a height of 130 metres, belongs to the third generation of towers in La D√©fense. [2] The tower takes the shape of a parallelepiped in which a semi-cylinder would have been extruded on the main fa√ßade. 
+Tour Descartes used to host the French headquarters of IBM Corporation until 2010. 
+$^{[3]}$ It now hosts a variety of companies with KPMG taking the most floors. [4]
+
+Label: description
+
+Text-Passage:
+2010 United States Senate election in Arkansas
+2010 United States Senate election in Pennsylvania
+2010 United States Senate election in South Carolina
+2010 United States Senate election in South Dakota
+2010 United States Senate elections
+2010 United States Senate special election in Delaware
+2010 United States Senate special election in Massachusetts
+2010 United States Senate special election in West Virginia
+2010 Unity State gubernatorial election
+2010 Virginia's 5th congressional district election
+2011
+2011 Tunisian Constituent Assembly election
+2011 Turkish general election
+
+Label: not_description
+
+Text-Passage:
+Is it encyclopedic to refer to IBM employees as IBMers throughout the article? 
+To an outsider this seems distracting and unnecessary, bordering on WP:PROMOTION, when the more straightforward 'IBM employees ' would do just fine. The article on Google for example doesn't use the term 'Googlers ' at all. 
+Is there any MoS guideline we can turn to for this? Stonkaments (talk) 04:05, 5 April 2021 (UTC)
+
+Label: not_description
+

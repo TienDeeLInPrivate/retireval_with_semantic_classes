@@ -1,0 +1,32 @@
+Classify the targeted text-passage based on whether it provides information about a human entity or not.
+If it contains information about human entities, classify it as 'human'
+If it does not contain information about human entities, classify it as 'not_human'
+
+Answer by providing only the Label and nothing else.
+
+Here are some examples with a Text-Passage followed by its label:
+
+Text-Passage:
+From his first European business trip with his father in 1948, Dick Watson held to a conviction that Western Europe would eventually emerge in the postwar period as a united economic community.
+He supported the formation of the European Economic Community and made sure that the IBM World Trade Corporation was one of the first U.S.-based companies to build up its manufacturing and development capabilities within the Common Market.
+
+Label: human
+
+Text-Passage:
+On February 22, 2010, U.S. District Court Judge Terry Wooten ruled that evidence in the Horry Land suit showed the plaintiffs were entitled to a trial. $^{[12]}$ On February 23, 2011, the trial began in Florence, South Carolina. 
+$^{[13]}$ In May 2011, Wooten ruled that AVX caused the pollution, and county property records show that AVX purchased 21.5 acres of contaminated land for $4.6 million. [14][15]
+
+Label: human
+
+Text-Passage:
+"Note that by removing it means that quantum states with global phase can not be represented as points on the surface of the Bloch sphere.
+b. The Pauli Z basis is usually called the computational basis, where the relative phase have no effect on measurement. Measuring instead in the X or Y Pauli basis depends on the relative phase. For example, will (because this state lies on the positive pole of the Yaxis) in the Y-basis always measure to the same value, while in the Z-basis results in equal probability of being measured to or. Because measurement collapses the quantum state, measuring the state in one basis hides some of the values that would have been measurable the other basis; See the uncertainty principle.
+c. Actually isomorphic: For a register with qubits and"
+
+Label: not_human
+
+Text-Passage:
+In recent years, Watson's capabilities have been extended and the way in which Watson works has been changed to take advantage of new deployment models (Watson on IBM Cloud), evolved machine learning capabilities, and optimized hardware available to developers and researchers. 
+It is no longer purely a question answering (QA) computing system designed from Q&A pairs but can now 'see', 'hear', 'read', 'talk', 'taste', 'interpret', 'learn' and 'recommend'.
+
+Label: not_human
