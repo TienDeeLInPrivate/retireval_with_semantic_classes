@@ -1,4 +1,4 @@
-Die Ornder und Datein sind jeweils nach ihren Inhalten und Funktionen benannt.
+Die Ordner und Datein sind jeweils nach ihren Inhalten und Funktionen benannt.
 
 PubMed-Daten, credentials für die BAM-API wurden entfernt.
 
